@@ -73,4 +73,4 @@ Hospital Api is a api designed for doctors of Hospital which has been allocated 
         </li>
     </ol>
 <h2>Link: </h2>
-    [Hospital Api](http://52.70.45.47/)
+    [Hospital Api](https://limitless-meadow-16004.herokuapp.com/)

@@ -1,0 +1,24 @@
+{
+  "name": "hospital_cell",
+  "version": "1.0.0",
+  "description": "an API for the doctors of a Hospital which has been allocated by the govt for testing and quarantine + well being of  COVID-19 patients",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod_start": "Set NODE_ENV=production& nodemon index.js"
+  },
+  "author": "Nilesh Mare",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15",
+    "passport": "^0.5.2",
+    "passport-jwt": "^4.0.0",
+    "rotating-file-stream": "^3.0.2"
+  }
+}
